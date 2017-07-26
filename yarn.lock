@@ -11,9 +11,9 @@
     source-map "^0.5.6"
     typescript "^2.3.3"
 
-"@angular/animations@^4.2.4":
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-4.3.1.tgz#1f7e0bb803efc21c608246e6765a1c647f3d1a5f"
+"@angular/animations@4.2.6":
+  version "4.2.6"
+  resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-4.2.6.tgz#9d9c80a119b0c03693cbd23bbaf728b1531fffc7"
   dependencies:
     tslib "^1.7.1"
 
@@ -86,69 +86,69 @@
   optionalDependencies:
     node-sass "^4.3.0"
 
-"@angular/common@^4.2.4":
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/@angular/common/-/common-4.3.1.tgz#260f487a7cdca326c436bd3ea9515c797de2ff72"
+"@angular/common@4.2.6":
+  version "4.2.6"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-4.2.6.tgz#210ace4bd24e375f8b41ba52feb34b18a887d5da"
   dependencies:
     tslib "^1.7.1"
 
-"@angular/compiler-cli@^4.2.4":
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-4.3.1.tgz#00b41afb6faeb4aef561b8427804ac8880aff63c"
+"@angular/compiler-cli@4.2.6":
+  version "4.2.6"
+  resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-4.2.6.tgz#8a21352299f3ebd1e3f17581054164566ca306be"
   dependencies:
-    "@angular/tsc-wrapped" "4.3.1"
+    "@angular/tsc-wrapped" "4.2.6"
     minimist "^1.2.0"
     reflect-metadata "^0.1.2"
 
-"@angular/compiler@^4.2.4":
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-4.3.1.tgz#3a24d49ecf01ac2b6e07f63e378b8ff8e257fe09"
+"@angular/compiler@4.2.6":
+  version "4.2.6"
+  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-4.2.6.tgz#667756d495ca0d45d2061268a10d52af839faff4"
   dependencies:
     tslib "^1.7.1"
 
-"@angular/core@^4.2.4":
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/@angular/core/-/core-4.3.1.tgz#a9d0a7d644b96260674269b689a04feea632a8d3"
+"@angular/core@4.2.6":
+  version "4.2.6"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-4.2.6.tgz#0c1c8ff0157f076f4a7c0b721ca1423f1bbe164e"
   dependencies:
     tslib "^1.7.1"
 
-"@angular/forms@^4.2.4":
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-4.3.1.tgz#33914da2cb146430ff901471e682c76654622dfe"
+"@angular/forms@4.2.6":
+  version "4.2.6"
+  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-4.2.6.tgz#9d32399608e4603bbf197417aa5b94e80a467eb0"
   dependencies:
     tslib "^1.7.1"
 
-"@angular/http@^4.2.4":
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/@angular/http/-/http-4.3.1.tgz#e4f661f746711e88ecbea76a3c905babf97d315a"
+"@angular/http@4.2.6":
+  version "4.2.6"
+  resolved "https://registry.yarnpkg.com/@angular/http/-/http-4.2.6.tgz#499e2ba0bbc1f3d71b76debec034c958caf1134e"
   dependencies:
     tslib "^1.7.1"
 
-"@angular/language-service@^4.2.4":
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/@angular/language-service/-/language-service-4.3.1.tgz#9910833fc89ddaac3e48d3ffaf8bb893618cda11"
+"@angular/language-service@4.2.6":
+  version "4.2.6"
+  resolved "https://registry.yarnpkg.com/@angular/language-service/-/language-service-4.2.6.tgz#1160acecec324363963ed226d513348afa30fcad"
 
-"@angular/platform-browser-dynamic@^4.2.4":
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-4.3.1.tgz#84034da60a82ef36e7effda7b3ade6e645b330b3"
+"@angular/platform-browser-dynamic@4.2.6":
+  version "4.2.6"
+  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-4.2.6.tgz#4e6c8ad2cd5cfc17880417f77f2a3413cf791c26"
   dependencies:
     tslib "^1.7.1"
 
-"@angular/platform-browser@^4.2.4":
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/@angular/platform-browser/-/platform-browser-4.3.1.tgz#db727b06eed64bda5defec71815db26a4da2f690"
+"@angular/platform-browser@4.2.6":
+  version "4.2.6"
+  resolved "https://registry.yarnpkg.com/@angular/platform-browser/-/platform-browser-4.2.6.tgz#a131ff592225fe6496bca2c9aff612a4dbddf437"
   dependencies:
     tslib "^1.7.1"
 
-"@angular/router@^4.2.4":
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/@angular/router/-/router-4.3.1.tgz#5219d44526156d816065841127610165a015b450"
+"@angular/router@4.2.6":
+  version "4.2.6"
+  resolved "https://registry.yarnpkg.com/@angular/router/-/router-4.2.6.tgz#a6919d9b61c45ffc15fbee593398e3fd532dab46"
   dependencies:
     tslib "^1.7.1"
 
-"@angular/tsc-wrapped@4.3.1":
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/@angular/tsc-wrapped/-/tsc-wrapped-4.3.1.tgz#f6616a4d2a3bbec1cded664fd1f526edce99ef41"
+"@angular/tsc-wrapped@4.2.6":
+  version "4.2.6"
+  resolved "https://registry.yarnpkg.com/@angular/tsc-wrapped/-/tsc-wrapped-4.2.6.tgz#60e44b5b38f3340ee14c54a58a7a07133c64e898"
   dependencies:
     tsickle "^0.21.0"
 
@@ -1108,7 +1108,7 @@ cookie@0.3.1:
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/cookie/-/cookie-0.3.1.tgz#e7e0a1f9ef43b4c8ba925c5c5a96e806d16873bb"
 
-core-js@^2.2.0, core-js@^2.4.0, core-js@^2.4.1:
+core-js@2.4.1, core-js@^2.2.0, core-js@^2.4.0:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.4.1.tgz#4de911e667b0eae9124e34254b53aea6fc618d3e"
 
@@ -4527,6 +4527,12 @@ rx-lite@*, rx-lite@^4.0.8:
   version "4.0.8"
   resolved "https://registry.yarnpkg.com/rx-lite/-/rx-lite-4.0.8.tgz#0b1e11af8bc44836f04a6407e92da42467b79444"
 
+rxjs@5.4.0:
+  version "5.4.0"
+  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-5.4.0.tgz#a7db14ab157f9d7aac6a56e655e7a3860d39bf26"
+  dependencies:
+    symbol-observable "^1.0.1"
+
 rxjs@^5.4.2:
   version "5.4.2"
   resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-5.4.2.tgz#2a3236fcbf03df57bae06fd6972fd99e5c08fcf7"
@@ -5064,7 +5070,7 @@ symbol-observable@^1.0.1:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/symbol-observable/-/symbol-observable-1.0.4.tgz#29bf615d4aa7121bdd898b22d4b3f9bc4e2aa03d"
 
-tapable@^0.2.5, tapable@^0.2.7, tapable@~0.2.5:
+tapable@^0.2.5, tapable@~0.2.5:
   version "0.2.7"
   resolved "https://registry.yarnpkg.com/tapable/-/tapable-0.2.7.tgz#e46c0daacbb2b8a98b9b0cea0f4052105817ed5c"
 
@@ -5788,6 +5794,6 @@ yn@^1.2.0:
   dependencies:
     object-assign "^4.1.1"
 
-zone.js@^0.8.14:
+zone.js@0.8.14, zone.js@^0.8.14:
   version "0.8.14"
   resolved "https://registry.yarnpkg.com/zone.js/-/zone.js-0.8.14.tgz#0c4db24b178232274ccb43f78c99db7f3642b6cf"
